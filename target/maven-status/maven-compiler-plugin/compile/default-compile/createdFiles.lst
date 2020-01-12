@@ -1,0 +1,12 @@
+Utils\Log.class
+Utils\ElementFinder.class
+ComputerManager\PageFactory.class
+ComputerManager\PageFactory$Locators.class
+ComputerManager\pages\HomePage.class
+Utils\ElementActions.class
+ComputerManager\pages\BasePage.class
+global\ConfigReader.class
+Utils\Common.class
+ComputerManager\pages\AddComputerPage.class
+Utils\DriverFactory.class
+global\Const.class

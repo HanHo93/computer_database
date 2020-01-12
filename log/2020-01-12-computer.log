@@ -1,0 +1,86 @@
+2020-01-12 23:48:34.105 [INFO] ******************************************************
+2020-01-12 23:48:34.114 [INFO] Go to computer management site: http://computer-database.herokuapp.com/
+2020-01-12 23:48:34.152 [INFO] ==============Start test script: verify_User_IsAbleToDeleteSearchKeyword_ByRemoveIcon============
+2020-01-12 23:48:34.389 [INFO] Type wzno into 'Search' box
+2020-01-12 23:48:34.860 [INFO] Click 'Search' button
+2020-01-12 23:48:34.947 [INFO] The actual 'No result' text is Nothing to display. The expected 'No result' text is Nothing to display
+2020-01-12 23:48:35.788 [INFO] Click 'Global page' title
+2020-01-12 23:48:35.799 [INFO] ==============Start test script: verify_User_IsAbleToFilter_ByComputerName============
+2020-01-12 23:48:35.964 [INFO] Type an into 'Search' box
+2020-01-12 23:48:36.454 [INFO] Click 'Search' button
+2020-01-12 23:48:36.787 [INFO] AN/FSQ-32 contains an : true
+2020-01-12 23:48:36.787 [INFO] AN/FSQ-7 contains an : true
+2020-01-12 23:48:36.787 [INFO] Analytical engine contains an : true
+2020-01-12 23:48:36.788 [INFO] Atanasoff-Berry Computer contains an : true
+2020-01-12 23:48:36.788 [INFO] Canon Cat contains an : true
+2020-01-12 23:48:36.788 [INFO] Evans & Sutherland ES-1 contains an : true
+2020-01-12 23:48:36.788 [INFO] Game Boy Advance contains an : true
+2020-01-12 23:48:36.788 [INFO] Game Boy Advance SP contains an : true
+2020-01-12 23:48:36.789 [INFO] Http://nepomuk.semanticdesktop.org/xwiki/ contains an : true
+2020-01-12 23:48:36.789 [INFO] Kogan Agora Pro contains an : true
+2020-01-12 23:48:37.206 [INFO] Click 'Next' button
+2020-01-12 23:48:37.455 [INFO] Manchester Mark I contains an : true
+2020-01-12 23:48:37.456 [INFO] Ngan's macbook111 contains an : true
+2020-01-12 23:48:37.456 [INFO] Oslo Analyzer contains an : true
+2020-01-12 23:48:37.456 [INFO] Panasonic FS A1GT contains an : true
+2020-01-12 23:48:37.456 [INFO] Panasonic FS A1ST contains an : true
+2020-01-12 23:48:37.456 [INFO] ProLiant contains an : true
+2020-01-12 23:48:37.456 [INFO] Tianhe-I contains an : true
+2020-01-12 23:48:37.456 [INFO] Titan contains an : true
+2020-01-12 23:48:37.457 [INFO] Twentieth Anniversary Macintosh contains an : true
+2020-01-12 23:48:37.457 [INFO] Wang 2200 contains an : true
+2020-01-12 23:48:38.192 [INFO] Click 'Global page' title
+2020-01-12 23:52:01.653 [INFO] ******************************************************
+2020-01-12 23:52:01.665 [INFO] Go to computer management site: http://computer-database.herokuapp.com/
+2020-01-12 23:52:01.745 [INFO] ==============Start test script: verify_User_Add_Computer_Successfully_WithRequiredFieldsOnly============
+2020-01-12 23:52:01.823 [INFO] Get text of 'Computer found' text
+2020-01-12 23:52:02.416 [INFO] Click 'Add new computer' button
+2020-01-12 23:52:02.946 [INFO] Type Automation 2020-01-12T23:52:02.510 into 'Computer name' field
+2020-01-12 23:52:02.979 [INFO] Get attribute value of 'Computer name' field
+2020-01-12 23:52:03.112 [INFO] Get attribute value of 'Introduced Date' field
+2020-01-12 23:52:03.229 [INFO] Get attribute value of 'Discontinued Date' field
+2020-01-12 23:52:04.112 [INFO] Click 'Create this computer' button
+2020-01-12 23:52:04.156 [INFO] Get text of 'Computer found' text
+2020-01-12 23:52:04.206 [INFO] The actual number of computer found  is 576. The expected number of computer found  is 576
+2020-01-12 23:52:04.749 [INFO] Type Automation 2020-01-12T23:52:02.510 into 'Search' box
+2020-01-12 23:52:05.286 [INFO] Click 'Search' button
+2020-01-12 23:52:05.351 [INFO] The actual number of computer is 1. The expected number of computer is 1
+2020-01-12 23:52:05.878 [INFO] Click 'Computer name' link
+2020-01-12 23:52:05.915 [INFO] Get attribute value of 'Computer name' field
+2020-01-12 23:52:06.005 [INFO] Get attribute value of 'Introduced Date' field
+2020-01-12 23:52:06.083 [INFO] Get attribute value of 'Discontinued Date' field
+2020-01-12 23:52:06.125 [INFO] The actual  computer info is [Automation 2020-01-12T23:52:02.510, , ]. The expected  computer info is [Automation 2020-01-12T23:52:02.510, , ]
+2020-01-12 23:52:06.996 [INFO] Click 'Delete' button
+2020-01-12 23:52:07.762 [INFO] Click 'Global page' title
+2020-01-12 23:52:07.764 [INFO] ==============Start test script: verify_User_AddsNewComputer_Successfully============
+2020-01-12 23:52:07.806 [INFO] Get text of 'Computer found' text
+2020-01-12 23:52:08.351 [INFO] Click 'Add new computer' button
+2020-01-12 23:52:08.845 [INFO] Type Automation 2020-01-12T23:52:08.402 into 'Computer name' field
+2020-01-12 23:52:09.124 [INFO] Type 2019-01-01 into 'Introduced Date' field
+2020-01-12 23:52:09.461 [INFO] Type 2020-01-01 into 'Discontinued Date' field
+2020-01-12 23:52:09.765 [INFO] Select Canon from 'Company' drop down list
+2020-01-12 23:52:09.796 [INFO] Get attribute value of 'Computer name' field
+2020-01-12 23:52:09.889 [INFO] Get attribute value of 'Introduced Date' field
+2020-01-12 23:52:09.968 [INFO] Get attribute value of 'Discontinued Date' field
+2020-01-12 23:52:10.879 [INFO] Click 'Create this computer' button
+2020-01-12 23:52:10.916 [INFO] Get text of 'Computer found' text
+2020-01-12 23:52:10.954 [INFO] The actual number of computer found  is 576. The expected number of computer found  is 576
+2020-01-12 23:52:11.383 [INFO] Type Automation 2020-01-12T23:52:08.402 into 'Search' box
+2020-01-12 23:52:11.872 [INFO] Click 'Search' button
+2020-01-12 23:52:11.925 [INFO] The actual number of computer is 1. The expected number of computer is 1
+2020-01-12 23:52:12.411 [INFO] Click 'Computer name' link
+2020-01-12 23:52:12.458 [INFO] Get attribute value of 'Computer name' field
+2020-01-12 23:52:12.549 [INFO] Get attribute value of 'Introduced Date' field
+2020-01-12 23:52:12.619 [INFO] Get attribute value of 'Discontinued Date' field
+2020-01-12 23:52:12.660 [INFO] The actual  computer info is [Automation 2020-01-12T23:52:08.402, 2019-01-01, 2020-01-01]. The expected  computer info is [Automation 2020-01-12T23:52:08.402, 2019-01-01, 2020-01-01]
+2020-01-12 23:52:13.425 [INFO] Click 'Delete' button
+2020-01-12 23:52:14.187 [INFO] Click 'Global page' title
+2020-01-12 23:52:14.189 [INFO] ==============Start test script: verify_User_IsUnableToAddAComputer_WithoutRequiredFields============
+2020-01-12 23:52:14.655 [INFO] Click 'Add new computer' button
+2020-01-12 23:52:14.928 [INFO] Type 2019-01-01 into 'Introduced Date' field
+2020-01-12 23:52:15.192 [INFO] Type 2020-01-01 into 'Discontinued Date' field
+2020-01-12 23:52:15.461 [INFO] Select Canon from 'Company' drop down list
+2020-01-12 23:52:16.068 [INFO] Click 'Create this computer' button
+2020-01-12 23:52:16.260 [INFO] Name field is highlighted : true
+2020-01-12 23:52:16.326 [INFO] The actual page title is Add a computer. The expected page title is Add a computer
+2020-01-12 23:52:17.238 [INFO] Click 'Global page' title

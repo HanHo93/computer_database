@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af518c92-8e60-4c50-939c-a46a4d9ed997" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML Properties File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WFj179oEZsO4t470Vp615tjA39" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/drivers" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GFORCES\src\main\resources" />
+      <recent name="C:\GFORCES\src\test\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GFORCES\src\main\resources\drivers" />
+      <recent name="C:\GFORCES\src\test\resources\drivers" />
+      <recent name="C:\GFORCES\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/GFORCES/src/test/resources/run.xml">
+    <configuration name="AddComputerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="computer-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestScript.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestScript" />
+      <option name="MAIN_CLASS_NAME" value="TestScript.AddComputerTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddComputerTest.addNewComputerSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="computer-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestScript.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestScript" />
+      <option name="MAIN_CLASS_NAME" value="TestScript.AddComputerTest" />
+      <option name="METHOD_NAME" value="addNewComputerSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/GFORCES/src/test/resources/run.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="computer-management" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/run.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerFilterTest.addANewComputerSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="computer-management" />
+      <option name="PACKAGE_NAME" value="TestScript" />
+      <option name="MAIN_CLASS_NAME" value="TestScript.ComputerFilterTest" />
+      <option name="METHOD_NAME" value="addANewComputerSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="computer-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestScript.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestScript" />
+      <option name="MAIN_CLASS_NAME" value="TestScript.HomePageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/GFORCES/src/test/resources/run.xml" />
+        <item itemvalue="TestNG.AddComputerTest" />
+        <item itemvalue="TestNG.HomePageTest" />
+        <item itemvalue="TestNG.AddComputerTest.addNewComputerSuccessfully" />
+        <item itemvalue="TestNG.ComputerFilterTest.addANewComputerSuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af518c92-8e60-4c50-939c-a46a4d9ed997" name="Default Changelist" comment="" />
+      <created>1578752019003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578752019003</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1578757834955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1578757834955" />
+    <state x="278" y="28" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1578757935651">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="278" y="28" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1280.680@0.0.1280.680" timestamp="1578757935651" />
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1578845002904">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1578845002904" />
+    <state x="398" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578755634103">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="398" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1578755634103" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578837929739">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1578837929739" />
+    <state x="399" y="202" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1578753384334">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="399" y="202" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1578753384334" />
+    <state width="1237" height="85" key="GridCell.Tab.0.bottom" timestamp="1578847899957">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="85" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578847899957" />
+    <state width="1237" height="85" key="GridCell.Tab.0.center" timestamp="1578847899957">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="85" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578847899957" />
+    <state width="1237" height="85" key="GridCell.Tab.0.left" timestamp="1578847899957">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="85" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578847899957" />
+    <state width="1237" height="85" key="GridCell.Tab.0.right" timestamp="1578847899957">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="85" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578847899957" />
+    <state width="1237" height="120" key="GridCell.Tab.1.bottom" timestamp="1578845531343">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="120" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578845531343" />
+    <state width="1237" height="120" key="GridCell.Tab.1.center" timestamp="1578845531343">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="120" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1578845531343" />
+    <state width="1237" height="120" key="GridCell.Tab.1.left" timestamp="1578845531342">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="120" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1578845531342" />
+    <state width="1237" height="120" key="GridCell.Tab.1.right" timestamp="1578845531343">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="120" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1578845531343" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1578813648432">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1578813648432" />
+    <state x="336" y="77" width="612" height="526" key="find.popup" timestamp="1578819711333">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="77" width="612" height="526" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1578819711333" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/PageObject/pages/HomePage.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Utils/Common.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="nextBtn().isEnabled()" language="JAVA" />
+        <watch expression="nextBtn().isDisplayed()" />
+        <watch expression="isNextEnabled" />
+        <watch expression="nextBtn().getAttribute(&quot;class&quot;)" />
+        <watch expression="nextBtn().getAttribute(&quot;class&quot;).contains(&quot;disabled&quot;)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
