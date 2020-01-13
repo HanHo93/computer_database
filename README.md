@@ -9,7 +9,7 @@ This is my project for doing web automation testing with selenium + java + testN
 -  Java JDK 1.8
 - Apache Maven 3.5+ (Follow this guide to install maven: https://mkyong.com/maven/how-to-install-maven-in-windows/)
 - IntelliJ IDE (Community)
-- Chrome latest version
+- Chrome, Firefox, IE latest version
 
 ♫ Select browser/ test classes to run:
 - The tests are run on Chrome by default.
